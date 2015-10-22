@@ -2,7 +2,7 @@
 
 <body>
 
-<h1 class="title">Project 2 - Multithreaded Space Simulation </h1>
+<h1 class="title">Multithreaded Space Simulation </h1>
 
 <h2>Introduction</h2>
 
