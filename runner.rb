@@ -555,3 +555,5 @@ def main
     end
     exit(0)
 end
+
+main
